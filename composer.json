@@ -34,7 +34,7 @@
     "homepage": "http://www.php-cache.com/en/latest/",
     "require": {
         "php": "^5.4 || ^5.6 || ^7.0 || ^8.0",
-        "cache/adapter-common": "dev-old-php#8bfa1edfd3974ae5955a5bae51acaabb85c88eaf",
+        "cache/adapter-common": "dev-old-php#230c19b5c7edc81fd0b258e091b4d82bdbfc0745",
         "cache/tag-interop": "dev-old-php#38c7b79708ecc118dac1e611466bf8504b1d90bf",
         "league/flysystem": "^1.0",
         "psr/cache": "^1.0 || ^2.0",
